@@ -2,7 +2,7 @@
 description: Test
 ---
 
-# Initial page
+# Initial pages
 
 ## Getting Super Powers
 
