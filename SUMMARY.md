@@ -1,9 +1,8 @@
 # Table of contents
 
-*   [Introduction](topics/introduction.html)
-*   [Care and Preparation](topics/care.html)
-    *   [Pruning](tasks/pruning.html)
-    *   [Garden Preparation](tasks/gardenPreparation.html)
+* [Initial page](README.md)
+* [Test](test.md)
+* [Untitled](untitled.md)
 *   [Flowers by Season](topics/index.html)
     *   [Spring Flowers](concepts/springFlowers.html)
         *   [Iris](topics/flowers/iris.html)
