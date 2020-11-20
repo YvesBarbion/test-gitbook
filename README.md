@@ -1,7 +1,4 @@
-# Want to know more about DITA
+# Introduction
 
-Check this blog with usefull tips and tricks from Flow colleagues.
-Contact us if you want to know more.
-
-
+Check this blog with usefull tips and tricks from Flow colleagues. Contact us if you want to know more.
 
