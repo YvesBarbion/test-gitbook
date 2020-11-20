@@ -1,0 +1,30 @@
+---
+authorinformation: 
+category: User Guide
+---
+
+# Adding refactoring operations to the Oxygen XML editor
+
+Refactoring operations are an advanced Search and Replace. It will help you to do bulk changes without losing a lot of time. You can add these scripts to the general Oxygen XML framework or a custom framework to make it visible for everyone you collaborate with. A refactoring operation is always defined as a pair of resources:
+
+-   XSLT Stylesheet or XQuery update script with the code to update the file.
+
+-   An XML Operation Descriptor file that contains the general information about the script.
+
+1.  Add the refactoring files \(script and descriptor file\) to the correct folder in your OxygenXML project.
+
+    In the Flow bv context, we add these files in the custom framework folder structure.
+
+    C:\\Github\\DITA\\\_custom\_framework\\dita\_extension\\refactoring
+
+2.  Choose **Options** \> **Preferences**.
+
+3.  Go to **Document Type Association**, select your custom framework and click **Edit**.
+
+4.  Under the **Classpath**, click ![](../_media/graphics/oxy_icon_new.png).
+
+5.  Add the URL to the refactoring operations and click **OK**.
+
+6.  Click **OK** \> **Apply** \> **OK** to confirm the changes.
+
+
