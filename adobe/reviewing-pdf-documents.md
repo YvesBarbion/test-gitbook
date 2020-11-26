@@ -1,4 +1,4 @@
-# Reviewing PDF-documents
+# Reviewing PDF documents
 
  You can review PDF-documents in Adobe Acrobat or in Adobe Reader, provided your documents are _review-enabled_.
 
